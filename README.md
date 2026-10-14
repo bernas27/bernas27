@@ -61,10 +61,10 @@ I want to understand how vulnerabilities arise, how systems are protected, and h
 
 | Project | What it is | Tech |
 |---|---|---|
-| [project-name](https://github.com/bernas27/project-name) | One sentence on what it does and what you learned | Python, SQL |
+| [project-name][(https://github.com/bernas27/Task-Manager.git)] | One sentence on what it does and what you learned | Python, SQL |
 | [project-name](https://github.com/bernas27/project-name) | One sentence on what it does and what you learned | Node.js, MySQL |
 
-## 📊 GitHub stats
+## 📊 GitHub statsw
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=bernas27&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=007BFF&text_color=C9D1D9&ring_color=00BFFF" alt="GitHub stats" />
