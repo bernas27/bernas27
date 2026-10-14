@@ -1,93 +1,87 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:071c14,100:00ff9d&height=220&section=header&text=ROSSI&fontSize=75&fontColor=00ff9d&fontAlignY=35&desc=CYBERSECURITY%20%7C%20FULL-STACK%20DEVELOPMENT&descSize=15&descAlignY=57&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0A1F44,100:007BFF&height=220&section=header&text=Rossi&fontSize=80&fontColor=FFFFFF&fontAlignY=38&desc=Cybersecurity%20%2F%2F%20Full-Stack%20Developer%20in%20the%20making&descSize=16&descColor=00BFFF&descAlignY=58" width="100%" alt="Rossi banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=00FF9D&center=true&vCenter=true&width=650&lines=%3E+Initializing+Rossi.exe...;%3E+Cybersecurity+Enthusiast;%3E+Full-Stack+Development+Student;%3E+Building.+Learning.+Securing." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=%3E+Student+developer;%3E+Learning+cybersecurity+and+full-stack;%3E+Build+%7C+Learn+%7C+Secure" alt="Animated terminal text" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-LEARNING-00ff9d?style=flat-square&labelColor=080d12" />
-  <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00ff9d?style=flat-square&labelColor=080d12" />
-  <img src="https://img.shields.io/badge/MODE-BUILDING-00ff9d?style=flat-square&labelColor=080d12" />
-</p>
-
----
-
-## `root@rossi:~$ whoami`
-
-```text
-USER        : Rossi
-GITHUB      : bernas27
-ROLE        : Cybersecurity & Full-Stack Student
-INTERESTS   : Software Engineering, Security, Backend
-MISSION     : Learn. Build. Understand. Secure.
-```
-
-I'm a student passionate about programming, cybersecurity and understanding how technology works behind the scenes.
-
-I enjoy exploring different programming languages, building applications and learning how to develop more secure software.
-
-- 🔐 Exploring cybersecurity and ethical hacking
-- 💻 Learning backend development and API design
-- 🌐 Developing full-stack programming skills
-- 🗄️ Exploring SQL and NoSQL databases
-- 🧪 Practising through personal projects and authorised labs
-- 🚀 Improving my skills one project at a time
-
----
-
-## `root@rossi:~$ ls ./technologies`
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,java,nodejs,php,mysql,mongodb&theme=dark" alt="C, C++, Python, JavaScript, Java, Node.js, PHP, MySQL and MongoDB" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-Systems_Programming-00ff9d?style=flat-square&labelColor=080d12" />
-  <img src="https://img.shields.io/badge/Python-Programming-00ff9d?style=flat-square&labelColor=080d12" />
-  <img src="https://img.shields.io/badge/JavaScript-Web_Development-00ff9d?style=flat-square&labelColor=080d12" />
-  <img src="https://img.shields.io/badge/Node.js-Backend-00ff9d?style=flat-square&labelColor=080d12" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-00BFFF?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=050505" alt="Focus: Cybersecurity" />
+  <img src="https://img.shields.io/badge/Role-Student-007BFF?style=for-the-badge&logo=github&logoColor=white&labelColor=050505" alt="Role: Student" />
+  <img src="https://img.shields.io/badge/Mindset-Always_Learning-00BFFF?style=for-the-badge&logo=target&logoColor=white&labelColor=050505" alt="Mindset: Always learning" />
 </p>
 
 ---
 
-## `root@rossi:~$ cat security_interests.txt`
+## 👋 About me
+
+Hi, I'm **Rossi**, a programming student who loves understanding how software works and how it can be broken, so I can learn to build it more securely.
+
+My goal is simple: **build, learn, secure.** I believe good developers think about reliability, privacy and security from the first line of code.
+
+## 🎯 What I'm focused on right now
+
+- 🔐 Web security fundamentals and ethical hacking (always in authorised, legal environments)
+- 🗄️ Learning SQL and relational databases
+- 💻 Backend development and building APIs
+- 🌐 Growing my full-stack skills through small, finished projects
+- 🧠 Strengthening my programming fundamentals
+
+## 🛠️ Tech stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,java&theme=dark" alt="C, C++, Python, JavaScript, Java" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,php&theme=dark" alt="Node.js, PHP" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL, MongoDB" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Git, GitHub, VS Code, Linux" />
+
+## 🔐 Cybersecurity interests
+
+![Web Security](https://img.shields.io/badge/Web_Security-0A1F44?style=for-the-badge&logo=owasp&logoColor=00BFFF)
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-0A1F44?style=for-the-badge&logo=kalilinux&logoColor=00BFFF)
+![Secure Coding](https://img.shields.io/badge/Secure_Coding-0A1F44?style=for-the-badge&logo=letsencrypt&logoColor=00BFFF)
+![Networking](https://img.shields.io/badge/Networking-0A1F44?style=for-the-badge&logo=cisco&logoColor=00BFFF)
+
+I want to understand how vulnerabilities arise, how systems are protected, and how to write code that holds up. I practise responsibly, only in labs and environments I'm authorised to test.
+
+## 📌 Featured projects
+
+<!-- Pin your best 2–3 repos on your profile and describe them here. Example format: -->
+
+| Project | What it is | Tech |
+|---|---|---|
+| [project-name](https://github.com/bernas27/project-name) | One sentence on what it does and what you learned | Python, SQL |
+| [project-name](https://github.com/bernas27/project-name) | One sentence on what it does and what you learned | Node.js, MySQL |
+
+## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/01-Web_Security-00ff9d?style=for-the-badge&labelColor=080d12" />
-  <img src="https://img.shields.io/badge/02-Secure_Coding-00ff9d?style=for-the-badge&labelColor=080d12" />
-  <br><br>
-  <img src="https://img.shields.io/badge/03-Networking-00ff9d?style=for-the-badge&labelColor=080d12" />
-  <img src="https://img.shields.io/badge/04-Ethical_Hacking-00ff9d?style=for-the-badge&labelColor=080d12" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bernas27&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=007BFF&text_color=C9D1D9&ring_color=00BFFF" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernas27&layout=compact&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=C9D1D9" alt="Most used languages" />
 </p>
 
-My goal is to understand how vulnerabilities happen, how systems can be protected and how to write software with security in mind.
+## 📫 Contact
 
-I believe that becoming a better developer also means learning how to think about security.
+- GitHub: [@bernas27](https://github.com/bernas27)
+<!-- Add LinkedIn / email here if you want people to reach you -->
 
 ---
 
-## `root@rossi:~$ ./github_stats`
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bernas27&show_icons=true&hide_border=true&bg_color=080d12&title_color=00ff9d&icon_color=00ff9d&text_color=c9d1d9&ring_color=00ff9d" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernas27&layout=compact&hide_border=true&bg_color=080d12&title_color=00ff9d&text_color=c9d1d9" alt="Most used languages" />
+  <i>Think like a developer. Learn like a researcher. Build with security in mind.</i>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bernas27&bg_color=080d12&color=00ff9d&line=00ff9d&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bernas27&style=flat-square&color=00ff9d&label=PROFILE+VISITORS" alt="Profile visitors" />
-</p>
-
-<h3 align="center">BUILD <code>//</code> LEARN <code>//</code> TEST <code>//</code> SECURE</h3>
-
-<p align="center">
-  <i>Every expert was once a beginner.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,50:0A1F44,100:000000&height=100&section=footer" width="100%" alt="Footer" />
 </p>
