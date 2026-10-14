@@ -61,7 +61,7 @@ I want to understand how vulnerabilities arise, how systems are protected, and h
 
 | Project | What it is | Tech |
 |---|---|---|
-| [project-name](https://github.com/bernas27/Task-Manager.git) | One sentence on what it does and what you learned | Python, SQL |
+| [Task-Manager](https://github.com/bernas27/Task-Manager.git) | One sentence on what it does and what you learned | Node.js |
 | [project-name](https://github.com/bernas27/project-name) | One sentence on what it does and what you learned | Node.js, MySQL |
 
 ## 📊 GitHub statsw
